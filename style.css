@@ -1,0 +1,64 @@
+    header {
+        padding: 10px;
+        text-align: center;
+        background-color: black;
+        color: white;
+    }
+
+    footer {
+        background-color: black;
+        color: white;
+        padding: 20px;
+        font-size: medium;
+        text-align: right;
+    }
+
+    body {
+        background-color: silver;
+    }
+
+    .About me {
+        text-align: center;
+    }
+
+    h2 {
+        text-align: center;
+        text-transform: uppercase;
+        margin-bottom: 20px;
+    }
+
+    .My-profiles {
+        text-align: center;
+    }
+
+    .My-profiles a {
+        padding: 20px;
+        font-size: 20px;
+    }
+
+    p {
+        text-align: center;
+    }
+
+    .image {
+        margin-top: 50px;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .image img{
+        border-radius: 20px;
+    }
+
+    header h1 {
+        color: red;
+
+    }
+
+    header span {
+        color: blue;
+    }
+
+    header p {
+        font-size: large;
+    }
